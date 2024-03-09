@@ -3,7 +3,7 @@
 **Introduction:**
 In today's interconnected digital landscape, ensuring optimal network performance and security is paramount for businesses and organizations of all sizes. With the proliferation of multimedia content, real-time communications, and critical business applications, effective management of network traffic becomes essential. Quality of Service (QoS) protocols play a crucial role in prioritizing network traffic, thereby enhancing user experiences, maintaining security, and optimizing network resource utilization.
 
-**Why We Need It / Problem Solved:**
+**Why We Need It:**
 The exponential growth of internet usage and the increasing complexity of networked applications present significant challenges for network administrators. Without effective traffic management, network congestion, latency issues, and security vulnerabilities can arise, leading to degraded performance and potential disruptions in service. Quality of Service protocols address these challenges by prioritizing traffic associated with critical applications and services, ensuring they receive the necessary bandwidth, low latency, and high reliability to function optimally.
 
 **Understanding Protocols:**
