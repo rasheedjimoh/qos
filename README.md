@@ -1,19 +1,19 @@
 # Enhancing Network Performance and Security with Quality of Service (QoS)
 
-**Introduction:**
+## Introduction
 In today's interconnected digital landscape, ensuring optimal network performance and security is paramount for businesses and organizations. With the proliferation of multimedia content, real-time communications, and critical business applications, effective management of network traffic becomes essential. Quality of Service (QoS) protocols play a crucial role in prioritizing network traffic, thereby enhancing user experiences, maintaining security, and optimizing network resource utilization.
 
 ![qos-5](https://github.com/rasheedjimoh/qos/assets/157264080/339fa119-bf1f-4a44-9bea-3c376092d46f)
 
 
-**Why We Need It:**
+## Why We Need It
 The exponential growth of internet usage and the increasing complexity of networked applications present significant challenges for network administrators. Without effective traffic management, network congestion, latency issues, and security vulnerabilities can arise, leading to degraded performance and potential service disruptions. Quality of Service protocols address these challenges by prioritizing traffic associated with critical applications and services, ensuring they receive the necessary bandwidth, low latency, and high reliability to function optimally.
 
 
 ![qos-4](https://github.com/rasheedjimoh/qos/assets/157264080/2c894466-d318-42cc-8618-3cbbac184d54)
 
 
-**Understanding Protocols:**
+## Understanding Protocols
 
 1. **RTSP (Real-Time Streaming Protocol)**:
    - RTSP facilitates the delivery of multimedia content over the internet, ensuring smooth and uninterrupted streaming experiences. QoS prioritization of RTSP traffic prevents buffering and latency issues, ensuring seamless multimedia streaming.
@@ -77,5 +77,5 @@ The exponential growth of internet usage and the increasing complexity of networ
 
 ![qos-3](https://github.com/rasheedjimoh/qos/assets/157264080/55046a67-c384-4521-a66f-99fff183a853)
 
-**Conclusion:**
+## Conclusion
 Quality of Service protocols play a vital role in optimizing network performance, enhancing security, and delivering superior user experiences. By prioritizing traffic associated with critical applications and services, organizations can effectively manage network resources, mitigate potential disruptions, and meet the demands of modern digital workflows. Implementing QoS protocols such as Traffic Shaping on platforms like pfSense empowers network administrators to maintain efficient and secure network operations, thereby driving business success in today's dynamic digital landscape.
